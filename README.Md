@@ -1,3 +1,10 @@
+STUDENT NAME: Bisamu Siantongole
+STUDENT ID: 2510198084
+PROJECT TITTLE: 'Bisamu Logistics'
+
+
+
+
 Q2.(1)  .<table>(with<thead>, <tbody>, <tfoot>, <tr>, <th>, <td>): contructing a multi-column pricing and logistics schedule required careful management of row and column alignment using purery HTML attributses without CSS styling.
 .<form>: Coording multiple nested input types (text, email, tel, date, radio, checkbox, textarea) while maintaining semantic clarity and native browser validation required exact attribute binding.
 .<details> and <summary>:Creating a fuctional, interactive Frequently Asked Questions (FAQ) accordion purely in HTML without using javascript proved challenging to structure cleanly.
